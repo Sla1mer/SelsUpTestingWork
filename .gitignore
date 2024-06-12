@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Logs
+*.log
